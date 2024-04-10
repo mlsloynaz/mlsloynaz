@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Maria L Sierra</h1>
 
-<!--
-**mlsloynaz/mlsloynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Hi, I'm a full-stack developer with a passion for frontend using JavaScript (React, Angular) and backend development with .NET. Excited about adopting new technologies and contributing to innovative projects.
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Coginov** and building my portfolio.
+- 🔭 I am also working on my portfolio and little projects that showcase my expertise.
+- 🌱 I’m currently learning **AWS** and **Vue**, also catching up with **Node.js**.
+- 👯 I’m looking to collaborate on anything **JavaScript**.
+- 🤔 I’m looking for help with my Portfolio repo.
+- 💬 Ask me about React, Node.js, JavaScript, CSS, HTML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> 📫  Reach me at: <a href="mailto:mlsloynas@gmail.com">mlsloynas@gmail.com</a> </p>
+
