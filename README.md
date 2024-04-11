@@ -11,5 +11,5 @@ Hi, I'm a full-stack developer with a passion for frontend using JavaScript (Rea
 - 🤔 I’m looking for help with my Portfolio repo.
 - 💬 Ask me about React, Node.js, JavaScript, CSS, HTML.
 
-<p> 📫  Reach me at: <a href="mailto:mlsloynas@gmail.com">mlsloynas@gmail.com</a> </p>
+<p> 📫  Reach me at: <a href="mailto:mlsloynaz@gmail.com">mlsloynas@gmail.com</a> </p>
 
